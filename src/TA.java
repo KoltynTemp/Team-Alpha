@@ -31,5 +31,7 @@ public class TA {
         * 
         * so, what does everyone have this semester??
       
+      Business, Civics/Careers, Math, Programming
+      -Koltyn
     }
 }
