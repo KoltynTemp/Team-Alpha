@@ -24,6 +24,5 @@ public class TA {
         
         My favourite colour is White
         -Riley
-        // I thought white wasn't a colour
     }
 }
