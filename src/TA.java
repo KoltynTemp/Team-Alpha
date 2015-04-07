@@ -22,6 +22,7 @@ public class TA {
         My favourite colour is Blue
         -Timothy
         
-        
+        My favourite colour is White
+        -Riley
     }
 }
