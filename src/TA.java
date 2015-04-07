@@ -3,7 +3,7 @@ public class TA {
                 int n1 = 2, n2 = 2, nans;
         nans = n1*n2;
         do{
-            system.out.println(""+nans+"");
+            System.out.println(""+nans+"");
         }while(n1>1);
         
         //i think halo is a pretty cool guy he kills and aliens and doesnt afraid of anything
