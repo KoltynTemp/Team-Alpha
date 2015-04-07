@@ -33,5 +33,8 @@ public class TA {
       
       Business, Civics/Careers, Math, Programming
       -Koltyn
+       
+      I have math, peer tutoring (grade 9 math), spare, and programming (obviously)
+      -Caleigh
     }
 }
