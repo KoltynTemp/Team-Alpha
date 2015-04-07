@@ -32,9 +32,13 @@ public class TA {
         * so, what does everyone have this semester??
       
       Business, Civics/Careers, Math, Programming
+      edit: gr10 sux
       -Koltyn
+      
+      English, Civics/Careers, Science, Programming
+      - Riley
        
-      I have math, peer tutoring (grade 9 math), spare, and programming (obviously)
-      -Caleigh
+      I have math, peer tutoring (gr 9 math), spare, and programming obviously
+      * yaaaaay math!!!!!!
     }
 }
