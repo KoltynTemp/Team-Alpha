@@ -33,5 +33,8 @@ public class TA {
       
       Business, Civics/Careers, Math, Programming
       -Koltyn
+      
+      English, Civics/Careers, Science, Programming
+      - Riley
     }
 }
