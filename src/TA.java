@@ -32,6 +32,10 @@ public class TA {
         * so, what does everyone have this semester??
       
       Business, Civics/Careers, Math, Programming
+      edit: gr10 sux
       -Koltyn
+      
+      English, Civics/Careers, Science, Programming
+      - Riley
     }
 }
