@@ -24,5 +24,12 @@ public class TA {
         
         My favourite colour is White
         -Riley
+        
+        I don't have a favourite colour.
+        -Caleigh
+        * 
+        * 
+        * so, what does everyone have this semester??
+      
     }
 }
