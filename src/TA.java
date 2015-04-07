@@ -37,8 +37,9 @@ public class TA {
       
       English, Civics/Careers, Science, Programming
       - Riley
-       
-      I have math, peer tutoring (gr 9 math), spare, and programming obviously
-      * yaaaaay math!!!!!!
+      
+      Math, Programming, and more Programming
+      - Timothy
+      
     }
 }
