@@ -33,5 +33,9 @@ public class TA {
       
       Business, Civics/Careers, Math, Programming
       -Koltyn
+      
+      Math, Programming, and more Programming
+      - Timothy
+      
     }
 }
