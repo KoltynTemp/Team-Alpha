@@ -37,5 +37,9 @@ public class TA {
       
       English, Civics/Careers, Science, Programming
       - Riley
+      
+      Math, Programming, and more Programming
+      - Timothy
+      
     }
 }
