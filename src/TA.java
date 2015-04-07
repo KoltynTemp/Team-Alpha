@@ -18,7 +18,7 @@ public class TA {
         //i think halo is a pretty cool guy he kills and aliens and doesnt afraid of anything
         //Just thought I'd say something
         
-        
+        // \(^_^)/
         /*What the fuck did you just fucking say about me, you little bitch? 
         I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been 
         involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. 
