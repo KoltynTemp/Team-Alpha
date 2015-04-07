@@ -17,5 +17,6 @@ public class TA {
         
         //i think halo is a pretty cool guy he kills and aliens and doesnt afraid of anything
         //Just thought I'd say something
+        // so we're just sending messages back and forth?
     }
 }
