@@ -43,7 +43,7 @@ public class TA {
       
       
       
-      I have -7, the 3rd part of the equation
+      I have -7
       -Koltyn
       
       I have 3
