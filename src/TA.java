@@ -41,5 +41,9 @@ public class TA {
       Math, Programming, and more Programming
       - Timothy
       
+      
+      
+      I have -7, the 3rd part of the equation
+      -Koltyn
     }
 }
