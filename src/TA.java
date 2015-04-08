@@ -46,7 +46,7 @@ public class TA {
       I have -7
       -Koltyn
       
-      I have 44
+      I have 3
       -Timothy 
       
       I have +20/ 
