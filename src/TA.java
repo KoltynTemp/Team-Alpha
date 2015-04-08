@@ -62,5 +62,9 @@ public class TA {
     20/3/5-(-7)?
     *
     This gives 8.3 (repeating)
+    
+    20/(-7)/5-3
+    *
+    This gives -3.5
     }
 }
