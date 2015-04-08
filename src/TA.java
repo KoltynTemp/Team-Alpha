@@ -45,5 +45,9 @@ public class TA {
       
       I have -7, the 3rd part of the equation
       -Koltyn
+      
+      I have 3
+      -Timothy 
+      
     }
 }
