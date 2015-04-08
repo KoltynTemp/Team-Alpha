@@ -59,12 +59,11 @@ public class TA {
     * 
     * 3+20/___-7
     
-    20/3/5-(-7)?
-    *
-    This gives 8.3 (repeating)
-    * 
+    
     *44 + (20/5) -7
     * =44 + 4 - 7
     * =41
+    
+    I didn't see TIm change his number, damn
     }
 }
