@@ -49,5 +49,7 @@ public class TA {
       I have 3
       -Timothy 
       
+      Caleigh, Riley, what do you have?
+      
     }
 }
