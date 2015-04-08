@@ -64,6 +64,6 @@ public class TA {
     * =44 + 4 - 7
     * =41
     
-    I didn't see TIm change his number, damn
+    I didn't see Tim change his number, damn
     }
 }
