@@ -55,6 +55,5 @@ public class TA {
       Now we just need Riley's
     Use the GitHub website, don't waste time pulling the file down to NetBeans
     Alright
-    Is he having problems?
     }
 }
