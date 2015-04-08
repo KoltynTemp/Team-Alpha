@@ -46,7 +46,7 @@ public class TA {
       I have -7
       -Koltyn
       
-      I have 3
+      I have 44
       -Timothy 
       
       I have +20/ 
@@ -66,5 +66,6 @@ public class TA {
     20/(-7)/5-3
     *
     This gives -3.5
+    
     }
 }
